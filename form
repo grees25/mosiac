@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>my web page2!</title>
+</head>
+<body>
+<form>
+<div>
+<input name="name" type="text" placeholder="name">
+<input name="password" type="password" placeholder="password">
+</div>
+<div>
+favorite color?
+<input name="color" type="radio" value="red">red
+<input name="color" type="radio" value="green">green
+<input name="color" type="radio" value="blue">blue
+<input name="color" type="radio" value="other">other
+</div>
+<div>
+<input name="country" list="countries" placeholder="country">
+<datalist id="countries">
+<option value="nepal">
+<option value="canada">
+<option value="USA">
+<option value="Australia">
+</div>
+</body>
+</html>
+
+
+
+
+
+
